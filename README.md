@@ -5,4 +5,4 @@ The file Custom.ipynb contains a short Python program which takes two user input
 
 Group: Version Control 6
 
-The members of this group are: Liam Munley and 
+The members of this group are: Liam Munley and Christopher Achkar
